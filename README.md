@@ -30,7 +30,7 @@ This is a simple yet engaging 2-player dice game built using HTML, CSS, and Java
 ## 📸 Screenshots
  
 > Example:
-> ![Gameplay Screenshot](./images/pigGame.png)
+> ![Gameplay Screenshot](./image/pigGame.png)
 
 ---
 
